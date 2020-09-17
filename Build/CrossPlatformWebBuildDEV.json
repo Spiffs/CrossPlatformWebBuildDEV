@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Marble",
+"productVersion": "0.1",
+"dataUrl": "CrossPlatformWebBuildDEV.data.unityweb",
+"wasmCodeUrl": "CrossPlatformWebBuildDEV.wasm.code.unityweb",
+"wasmFrameworkUrl": "CrossPlatformWebBuildDEV.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.6f1"
+}
